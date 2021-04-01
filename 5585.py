@@ -7,3 +7,5 @@ for i in b:
     a%=i
 
 print(count)
+
+#hjjunl changed the code
