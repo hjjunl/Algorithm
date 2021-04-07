@@ -9,3 +9,5 @@ elif (N%5)%2==0:
 else:
     anw=(N//5-1+(N%5+5)//2)
 print(anw)
+
+#test commit
